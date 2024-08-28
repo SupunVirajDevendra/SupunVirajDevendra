@@ -10,7 +10,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=supunvirajdevendra" alt="Profile Trophies" />
   </a>
 </p>
-
 <p align="center">
   🔭 I’m currently studying at the University of Westminster<br>
   🌱 I’m learning Python, Java, HTML, CSS, and more<br>
