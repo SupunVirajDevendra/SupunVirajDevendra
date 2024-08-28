@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/supun-devendra" target="_blank">
+  <a href=www.linkedin.com/in/supun-devendra target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/supun.v.devendra" target="_blank">
