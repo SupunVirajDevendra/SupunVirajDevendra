@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I'm Supun Viraj Devendra</h1>
+<h1 align="center">Hello! 😈 I'm Supun Viraj Devendra</h1>
 <h3 align="center">Passionate Developer from Sri Lanka</h3>
 
 <p align="center">
