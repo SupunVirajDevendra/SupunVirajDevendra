@@ -21,4 +21,4 @@
 [![Visitor Count](https://visitcount.itsvg.in/api?id=supunvirajdevendra&icon=7&color=1)](https://visitcount.itsvg.in)
 
 ## 📫 How to Reach Me
-Feel free to connect with me through my socials or reach out via email at [your-email@example.com](mailto:your-email@example.com).
+Feel free to connect with me through my socials or reach out via email at [Supun Devendra](mailto:supundevendra1207@gmail.com).
