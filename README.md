@@ -69,8 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supunvirajdevendra&show_icons=true&hide_title=true&hide_border=true&bg_color=F7F7F7&text_color=000000&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="center">Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=supunvirajdevendra&theme=default" alt="Contribution Graph" />
-</p>
-c
