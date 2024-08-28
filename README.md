@@ -1,24 +1,7 @@
 <h1 align="center">Hey there! 😈 I'm Supun Devendra</h1>
 <h3 align="center">🚀 Passionate Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supundevendra&label=Profile%20views&color=0e75b6&style=flat-square" alt="supundevendra" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=supundevendra&theme=onedark&row=1&column=6" alt="supundevendra" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supundevendra&show_icons=true&theme=radical&hide_border=true" alt="supundevendra" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supundevendra&theme=radical&hide_border=true" alt="supundevendra" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supundevendra&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="supundevendra" />
-</p>
 
 ---
 
