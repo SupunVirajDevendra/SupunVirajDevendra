@@ -14,6 +14,7 @@
 <p align="center">
   🔭 I’m currently studying at the **University of Westminster**<br>
   🌱 I’m learning **Python, Java, HTML, CSS**, and more<br>
+  🚀 I’m passionate about **Web Development, Software Engineering, and Data Science**<br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -63,9 +64,23 @@
   </a>
 </p>
 
+<h3 align="center">Pinned Repositories:</h3>
+<p align="center">
+  <a href="https://github.com/supunvirajdevendra/your-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=supunvirajdevendra&repo=your-repo-1" alt="Pinned Repo 1" />
+  </a>
+  <a href="https://github.com/supunvirajdevendra/your-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=supunvirajdevendra&repo=your-repo-2" alt="Pinned Repo 2" />
+  </a>
+</p>
+
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=supunvirajdevendra&show_icons=true&hide_title=true&hide_border=true&bg_color=F7F7F7&text_color=000000" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supunvirajdevendra&show_icons=true&hide_title=true&hide_border=true&bg_color=F7F7F7&text_color=000000&layout=compact" alt="Top Languages" />
 </p>
 
+<h3 align="center">📖 Favorite Quote:</h3>
+<p align="center">
+  <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
+</p>
