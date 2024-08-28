@@ -64,15 +64,6 @@
   </a>
 </p>
 
-<h3 align="center">Pinned Repositories:</h3>
-<p align="center">
-  <a href="https://github.com/supunvirajdevendra/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=supunvirajdevendra&repo=your-repo-1" alt="Pinned Repo 1" />
-  </a>
-  <a href="https://github.com/supunvirajdevendra/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=supunvirajdevendra&repo=your-repo-2" alt="Pinned Repo 2" />
-  </a>
-</p>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
