@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently studying at the **University of Westminster**<br>
-  🌱 I’m learning **Python, Java, HTML, CSS**, and more<br>
-  🚀 I’m passionate about **Web Development, Software Engineering, and Data Science**<br>
+  🔭 I’m currently studying at the University of Westminster<br>
+  🌱 I’m learning Python, Java, HTML, CSS, and more<br>
+  🚀 I’m passionate about Web Development, Software Engineering, and Data Science<br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
