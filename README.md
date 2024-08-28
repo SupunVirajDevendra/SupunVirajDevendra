@@ -29,8 +29,6 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupunVirajDevendra&theme=radical&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="Supun's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVirajDevendra&theme=radical&hide_border=false" alt="Supun's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVirajDevendra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
