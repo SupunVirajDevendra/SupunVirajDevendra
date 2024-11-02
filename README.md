@@ -1,13 +1,70 @@
-# 💫 About Me
+<!-- Add the following style block in the README or CSS file -->
+<style>
+  /* Animation for section headings */
+  .section-heading {
+    animation: fadeIn 1.5s ease-in-out;
+  }
+
+  /* Animation for icons */
+  .social-icon,
+  .tech-icon {
+    animation: bounceIn 1.2s ease;
+    transition: transform 0.3s;
+  }
+
+  /* Hover effect for icons */
+  .social-icon:hover,
+  .tech-icon:hover {
+    transform: scale(1.1);
+  }
+
+  /* Keyframes for animations */
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes bounceIn {
+    0%, 20%, 40%, 60%, 80%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+</style>
+
+<!-- HTML structure for About Me section with an animated sticker -->
+# 💫 <span class="section-heading">About Me</span>
 🔭 I’m currently studying at the University of Westminster  
 🌱 I’m learning Python, Java, HTML, CSS, and more  
 🚀 I’m passionate about Web Development, Software Engineering, and Data Science
 
+<!-- Animated sticker section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Sticker" width="200"/>
+</div>
+
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Deva2598) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supun-devendra)
+<a href="https://discord.gg/Deva2598" class="social-icon">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://facebook.com" class="social-icon">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://instagram.com" class="social-icon">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://linkedin.com/in/supun-devendra" class="social-icon">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230E1C2E.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" class="tech-icon">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="tech-icon">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" class="tech-icon">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" class="tech-icon">
+<!-- Add more tech icons as necessary with the tech-icon class -->
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunvirajdevendra&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
@@ -22,4 +79,3 @@
 
 ## 📫 How to Reach Me
 Feel free to connect with me through my socials or reach out via email at [Supun Devendra](mailto:supundevendra1207@gmail.com).
-
