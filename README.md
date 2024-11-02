@@ -23,7 +23,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230E1C2E.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-![tenor (1)](https://github.com/user-attachments/assets/6c735f3c-fdbd-473a-a990-01e7fddabd72)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunvirajdevendra&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
