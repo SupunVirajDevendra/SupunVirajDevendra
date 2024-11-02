@@ -1,37 +1,4 @@
 
-<style>
-
-  .section-heading {
-    animation: fadeIn 1.5s ease-in-out;
-  }
-
-
-  .social-icon,
-  .tech-icon {
-    animation: bounceIn 1.2s ease;
-    transition: transform 0.3s;
-  }
-
-
-  .social-icon:hover,
-  .tech-icon:hover {
-    transform: scale(1.1);
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(20px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-
-  @keyframes bounceIn {
-    0%, 20%, 40%, 60%, 80%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-</style>
 
 <!-- HTML structure for About Me section with an animated sticker -->
 # 💫 <span class="section-heading">About Me</span>
