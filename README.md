@@ -3,6 +3,9 @@
 🌱 I’m learning Python, Java, HTML, CSS, and more  
 🚀 I’m passionate about Web Development, Software Engineering, and Data Science
 
+![Your Animated Sticker](https://media.giphy.com/media/yourgifurl.gif)
+
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Deva2598) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supun-devendra)
 
