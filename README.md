@@ -1,24 +1,23 @@
-<!-- Add the following style block in the README or CSS file -->
+
 <style>
-  /* Animation for section headings */
+
   .section-heading {
     animation: fadeIn 1.5s ease-in-out;
   }
 
-  /* Animation for icons */
+
   .social-icon,
   .tech-icon {
     animation: bounceIn 1.2s ease;
     transition: transform 0.3s;
   }
 
-  /* Hover effect for icons */
+
   .social-icon:hover,
   .tech-icon:hover {
     transform: scale(1.1);
   }
 
-  /* Keyframes for animations */
   @keyframes fadeIn {
     0% { opacity: 0; transform: translateY(20px); }
     100% { opacity: 1; transform: translateY(0); }
