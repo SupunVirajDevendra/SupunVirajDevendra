@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 About Me
+# 💫 I'm Supun Devendra
 🔭 I’m currently studying at the University of Westminster  
 🌱 I’m learning Python, Java, HTML, CSS, and more  
 🚀 I’m passionate about Web Development, Software Engineering, and Data Science  <br>
