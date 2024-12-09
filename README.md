@@ -1,9 +1,9 @@
 <div align="center">
 
 # 💫 I'm Supun Devendra
-🔭 I’m currently studying at the University of Westminster  
-🌱 I’m learning Python, Java, HTML, CSS, and more  
-🚀 I’m passionate about Web Development, Software Engineering, and Data Science  <br>
+🔭 currently studying at the University of Westminster  
+🌱 learning Python, Java, HTML, CSS, and more  
+🚀 passionate about Web Development, Software Engineering, and Data Science  <br>
 <br>
 ![tenor](https://github.com/user-attachments/assets/9f0c2f92-ee33-4494-8436-a36fce2f20e0)
 
