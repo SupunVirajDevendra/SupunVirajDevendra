@@ -35,6 +35,7 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supunvirajdevendra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+[![Supun's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supunvirajdevendra&theme=gruvbox&no-frame=false&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Visitors Count
 [![Visitor Count](https://visitcount.itsvg.in/api?id=supunvirajdevendra&icon=7&color=1)](https://visitcount.itsvg.in)
