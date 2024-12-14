@@ -30,8 +30,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supunvirajdevendra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌟 Contribution Graph
-[![Supun's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=supunvirajdevendra&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Supun's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=supunvirajdevendra&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=fff&area=true&area_color=61dafb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supunvirajdevendra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
