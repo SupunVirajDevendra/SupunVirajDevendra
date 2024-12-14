@@ -24,14 +24,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230E1C2E.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunvirajdevendra&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supunvirajdevendra&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supunvirajdevendra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌟 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=supunvirajdevendra&theme=radical)
+[![Supun's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=supunvirajdevendra&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supunvirajdevendra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
