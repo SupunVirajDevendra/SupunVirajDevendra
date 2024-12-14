@@ -32,10 +32,8 @@
 ## 🌟 Contribution Graph
 [![Supun's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=supunvirajdevendra&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supunvirajdevendra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-[![Supun's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supunvirajdevendra&theme=gruvbox&no-frame=false&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Visitors Count
 [![Visitor Count](https://visitcount.itsvg.in/api?id=supunvirajdevendra&icon=7&color=1)](https://visitcount.itsvg.in)
