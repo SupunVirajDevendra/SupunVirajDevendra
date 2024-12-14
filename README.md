@@ -1,8 +1,5 @@
 <div align="center">
-<br clear="both">
-<img src="https://raw.githubusercontent.com/supunvirajdevendra/supunvirajdevendra/output/snake.svg" alt="Snake animation" />
 
-###
 ###
 # 💫 I'm Supun Devendra
 🔭 currently studying at the University of Westminster  
