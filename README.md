@@ -8,42 +8,42 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate and detail-oriented **Software Engineering Undergraduate** dedicated to building impactful, efficient, and user-focused software.  
-My expertise lies in **Full-Stack Development**, combining creativity and technical precision to deliver clean, scalable, and responsive applications.  
-Driven by innovation, I thrive in both independent and collaborative environments, transforming ideas into elegant, functional solutions.
+Passionate and detail-oriented **Software Engineering Undergraduate** dedicated to building impactful, efficient, and user-focused software.  
+Specialized in **Full-Stack Development**, combining creativity and technical precision to deliver clean, scalable, and responsive applications.  
+Driven by innovation, thriving in both independent and collaborative environments to transform ideas into elegant, functional solutions.
 
 ---
 
 ## 📌 Profile Summary
 
-Highly motivated and focused on developing **modern, high-performance, and user-centric** digital solutions.  
-Experienced in both **academic** and **professional** projects, with a strong foundation in clean architecture, agile methodologies, and UI/UX best practices.  
-I continuously strive to integrate **technology and innovation** to make a meaningful impact in the digital world.
+Highly motivated and experienced in developing **modern, high-performance, user-centric** digital solutions.  
+Strong foundation in **clean architecture, agile methodologies, and UI/UX best practices**.  
+Continuously integrating **technology and innovation** to create meaningful digital impact.
 
 ---
 
 ## 💼 Key Areas of Focus
 
-- 🔹 Web & Mobile App Development (Frontend & Backend)  
-- 🔹 RESTful API Development & Integration  
-- 🔹 UI/UX Design and Prototyping  
-- 🔹 Agile Development & Version Control  
-- 🔹 Cross-platform Development with React Native  
-- 🔹 Cloud-Ready Backend Development with Spring Boot  
+- Web & Mobile App Development (Frontend & Backend)  
+- RESTful API Development & Integration  
+- UI/UX Design and Prototyping  
+- Agile Development & Version Control  
+- Cross-platform Development with React Native  
+- Cloud-Ready Backend Development with Spring Boot  
 
 ---
 
 ## 🧠 Technical Skills
 
 | **Category** | **Technologies** |
-|--------------|------------------|
-| 🧩 **Languages** | Java, Python, JavaScript, HTML, CSS |
-| 🎨 **Frontend** | React, Next.js, Angular, TypeScript |
-| ⚙️ **Backend** | Spring Boot, Node.js |
-| 📱 **Mobile** | Android Studio, React Native, Kotlin |
-| 🗄️ **Database** | MySQL, PostgreSQL, Firebase, H2 |
-| 🧰 **Tools** | Git, GitHub, IntelliJ IDEA, VS Code, Postman |
-| ✏️ **Design** | Figma, Adobe Illustrator, Canva, Adobe Premiere Pro |
+|--------------|-----------------|
+| **Languages** | Java, Python, JavaScript, HTML, CSS |
+| **Frontend**  | React, Next.js, Angular, TypeScript |
+| **Backend**   | Spring Boot, Node.js |
+| **Mobile**    | Android Studio, React Native, Kotlin |
+| **Database**  | MySQL, PostgreSQL, Firebase, H2 |
+| **Tools**     | Git, GitHub, IntelliJ IDEA, VS Code, Postman |
+| **Design**    | Figma, Adobe Illustrator, Canva, Adobe Premiere Pro |
 
 ---
 
@@ -59,22 +59,23 @@ I continuously strive to integrate **technology and innovation** to make a meani
 ## 📈 GitHub Insights
 
 <table>
-  <tr>
-    <td align="center">
-      <strong>👤 Personal GitHub</strong><br>
-      <a href="https://github.com/SupunVirajDevendra" target="_blank">github.com/SupunVirajDevendra</a><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=SupunVirajDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Personal GitHub Stats"/><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVirajDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVirajDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-    </td>
-    <td align="center">
-      <strong>🏢 Office GitHub</strong><br>
-      <a href="https://github.com/SupunVDevendra" target="_blank">github.com/SupunVDevendra</a><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=SupunVDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Office GitHub Stats"/><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<strong>👤 Personal GitHub</strong><br>
+<a href="https://github.com/SupunVirajDevendra" target="_blank">github.com/SupunVirajDevendra</a><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=SupunVirajDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Personal GitHub Stats"/><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVirajDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVirajDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</td>
+<td align="center">
+<strong>🏢 Organization GitHub</strong><br>
+<a href="https://github.com/SupunVDevendra" target="_blank">github.com/SupunVDevendra</a><br>
+<sub>Active contributions for office/organization projects</sub><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=SupunVDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Organization GitHub Stats"/><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</td>
+</tr>
 </table>
 
 ---
