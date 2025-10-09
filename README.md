@@ -64,7 +64,6 @@ Continuously integrating **technology and innovation** to create meaningful digi
 <strong>👤 Personal GitHub</strong><br>
 <a href="https://github.com/SupunVirajDevendra" target="_blank">github.com/SupunVirajDevendra</a><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=SupunVirajDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Personal GitHub Stats"/><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVirajDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVirajDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </td>
 <td align="center">
@@ -72,7 +71,6 @@ Continuously integrating **technology and innovation** to create meaningful digi
 <a href="https://github.com/SupunVDevendra" target="_blank">github.com/SupunVDevendra</a><br>
 <sub>Active contributions for office/organization projects</sub><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=SupunVDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Organization GitHub Stats"/><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </td>
 </tr>
