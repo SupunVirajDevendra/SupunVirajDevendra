@@ -1,35 +1,42 @@
-<h1 align="center">Hi, I'm Supun Devendra</h1>
+<h1 align="center">Hi, I'm Supun Devendra 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast</em>
+  <em>Software Engineering Undergraduate | Full Stack Developer | Creative Technologist</em>
+</p>
+
+<p align="center">
+  <strong>Innovating through Code | Bridging Logic with Design | Building for Impact 🚀</strong>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Passionate and detail-oriented **Software Engineering Undergraduate** dedicated to building impactful, efficient, and user-focused software.  
-Specialized in **Full-Stack Development**, combining creativity and technical precision to deliver clean, scalable, and responsive applications.  
-Driven by innovation, thriving in both independent and collaborative environments to transform ideas into elegant, functional solutions.
+💼 Currently working as a **Full Stack Development Intern @ CYPSO Labs (Pvt) Ltd**  
+🎓 Pursuing **BEng (Hons) Software Engineering** at **University of Westminster (IIT)**  
+
+I’m a passionate and detail-oriented **Software Engineering Undergraduate** dedicated to building impactful, efficient, and user-centered software.  
+I specialize in **Full Stack Development**, blending creativity with technical precision to deliver clean, scalable, and responsive solutions.  
+Driven by innovation, I thrive in both independent and collaborative environments to turn ideas into elegant, functional realities.
 
 ---
 
 ## 📌 Profile Summary
 
-Highly motivated and experienced in developing **modern, high-performance, user-centric** digital solutions.  
-Strong foundation in **clean architecture, agile methodologies, and UI/UX best practices**.  
-Continuously integrating **technology and innovation** to create meaningful digital impact.
+Highly motivated and experienced in developing **modern, high-performance, user-centric** digital products.  
+Strong foundation in **clean architecture**, **agile methodologies**, and **UI/UX best practices**.  
+I continuously integrate **technology and innovation** to create meaningful digital impact.
 
 ---
 
 ## 💼 Key Areas of Focus
 
-- Web & Mobile App Development (Frontend & Backend)  
-- RESTful API Development & Integration  
-- UI/UX Design and Prototyping  
-- Agile Development & Version Control  
-- Cross-platform Development with React Native  
-- Cloud-Ready Backend Development with Spring Boot  
+- 🌐 Web & Mobile App Development (Frontend & Backend)  
+- 🔗 RESTful API Development & Integration  
+- 🎨 UI/UX Design and Prototyping  
+- ⚙️ Agile Development & Version Control  
+- 📱 Cross-platform Development with React Native  
+- ☁️ Cloud-Ready Backend Development with Spring Boot  
 
 ---
 
@@ -47,12 +54,20 @@ Continuously integrating **technology and innovation** to create meaningful digi
 
 ---
 
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nextjs,angular,spring,androidstudio,postgres,mysql,git,figma" />
+</p>
+
+---
+
 ## 🚀 Currently Exploring
 
-- Advanced Spring Boot Microservices  
-- Scalable Cloud Deployments (AWS/GCP)  
-- Modern UI/UX Design Systems  
-- AI-Powered Web Applications  
+- 🧩 Advanced Spring Boot Microservices  
+- ☁️ Scalable Cloud Deployments (AWS/GCP)  
+- 🎨 Modern UI/UX Design Systems  
+- 🤖 AI-Powered Web Applications  
 
 ---
 
@@ -64,6 +79,7 @@ Continuously integrating **technology and innovation** to create meaningful digi
 <strong>👤 Personal GitHub</strong><br>
 <a href="https://github.com/SupunVirajDevendra" target="_blank">github.com/SupunVirajDevendra</a><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=SupunVirajDevendra&show_icons=true&theme=tokyonight&hide_border=true" alt="Personal GitHub Stats"/><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunVirajDevendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunVirajDevendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </td>
 <td align="center">
@@ -75,6 +91,13 @@ Continuously integrating **technology and innovation** to create meaningful digi
 </td>
 </tr>
 </table>
+
+---
+
+## 💬 Fun Fact
+
+> I see design as **problem-solving**, not decoration.  
+> Every pixel, color, and function should have **purpose** ✨
 
 ---
 
@@ -98,9 +121,10 @@ Continuously integrating **technology and innovation** to create meaningful digi
   <img src="https://komarev.com/ghpvc/?username=SupunVirajDevendra&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
 <p align="center"><i>"Where creativity meets innovation."</i></p>
+
 <p align="center">
   <sub>© 2025 Supun Devendra. All rights reserved.</sub>
 </p>
