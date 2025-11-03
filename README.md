@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Supun Devendra 👋</h1>
+<h1 align="center">Hi, I'm Supun Devendra </h1>
 
 <p align="center">
   <em>Software Engineering Undergraduate | Full Stack Developer | Creative Technologist</em>
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 💼 Currently working as a **Full Stack Development Intern @ CYPSO Labs (Pvt) Ltd**  
 🎓 Pursuing **BEng (Hons) Software Engineering** at **University of Westminster (IIT)**  
@@ -29,7 +29,7 @@ I continuously integrate **technology and innovation** to create meaningful digi
 
 ---
 
-## 💼 Key Areas of Focus
+## Key Areas of Focus
 
 - 🌐 Web & Mobile App Development (Frontend & Backend)  
 - 🔗 RESTful API Development & Integration  
@@ -54,7 +54,7 @@ I continuously integrate **technology and innovation** to create meaningful digi
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nextjs,angular,spring,androidstudio,postgres,mysql,git,figma" />
@@ -62,7 +62,7 @@ I continuously integrate **technology and innovation** to create meaningful digi
 
 ---
 
-## 🚀 Currently Exploring
+##  Currently Exploring
 
 - 🧩 Advanced Spring Boot Microservices  
 - ☁️ Scalable Cloud Deployments (AWS/GCP)  
