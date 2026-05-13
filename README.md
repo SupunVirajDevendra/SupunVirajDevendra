@@ -131,6 +131,5 @@ Experienced in building **web applications, backend services, and Android applic
 <p align="center"><i>"Where creativity meets innovation."</i></p>
 
 <p align="center">
-<iframe src="https://github.com/sponsors/SupunVirajDevendra/button" title="Sponsor SupunVirajDevendra" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 <sub>© 2026 Supun Devendra. All rights reserved.</sub>
 </p>
